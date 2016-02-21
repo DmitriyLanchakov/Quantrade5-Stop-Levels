@@ -11,4 +11,4 @@ Quantrade5 Stop Levels shows stop levels based on 19 types of SMA and standard d
 ## Sources
 
 - First release about idea (Luthuanian): http://www.prekybaforex.lt/kaip-naudotis-indikatoriumi/dinaminis-stopo-indikatorius
-- Develoepr's site: [2]: http://algotrade.co/
+- Develoepr's site: [2]: http://www.talaikis.com/
